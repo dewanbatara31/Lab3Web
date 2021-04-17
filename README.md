@@ -97,3 +97,17 @@ Agar tampilan form lebih menarik, bisa ditambahkan CSS seperti berikut.
 Kemudian refresh di borwsernya 
 
 ![2d](https://user-images.githubusercontent.com/56387936/115102909-2aed0380-9f78-11eb-9394-c01ad6cc1560.JPG)
+
+Pertanyaan dan Tugas 
+
+1.	Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+
+![11](https://user-images.githubusercontent.com/56387936/115104163-d1d59d80-9f80-11eb-86fa-b8513517c7d2.JPG)
+
+![22](https://user-images.githubusercontent.com/56387936/115104175-efa30280-9f80-11eb-9363-8b06959b99d9.JPG)
+
+![33](https://user-images.githubusercontent.com/56387936/115104207-18c39300-9f81-11eb-8621-acaad0726786.JPG)
+
+Kemudian refresh di web browsernya :
+
+![44](https://user-images.githubusercontent.com/56387936/115104235-401a6000-9f81-11eb-87b6-0b619b7e94cc.JPG)
