@@ -42,8 +42,6 @@ Kemudian refresh di web browsernya
 ![1g](https://user-images.githubusercontent.com/56387936/115102615-30494e80-9f76-11eb-8e74-aaed3694fc39.JPG)
 
 
-![1g](https://user-images.githubusercontent.com/56387936/115102616-30494e80-9f76-11eb-80a3-50fc6ce42c2b.JPG)
-
 Selanjutnya lakukan eksperimen lain terkait list dan penggunaan atribut type pada list.
 
 •	Membuat Tabel
