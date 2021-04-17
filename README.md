@@ -30,3 +30,10 @@ Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered l
 Kemudian refresh di web browser nya 
 
 ![1e](https://user-images.githubusercontent.com/56387936/115102439-ff1c4e80-9f74-11eb-8fad-46fdb94ba250.JPG)
+
+•	Membuat Description List
+
+ Kemudian tambahkan kode untuk membuat description list setelah deklarasi unorderd-list.
+ 
+![1f](https://user-images.githubusercontent.com/56387936/115102484-55898d00-9f75-11eb-9da2-46f9f2e5bebb.JPG)
+
