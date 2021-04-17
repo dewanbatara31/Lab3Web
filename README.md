@@ -1,4 +1,3 @@
-![1g](https://user-images.githubusercontent.com/56387936/115102566-da74a680-9f75-11eb-9010-d50f18d54d0f.JPG)
 # Lab3Web
 Nama : Dewan Batara Subarjah 
 
