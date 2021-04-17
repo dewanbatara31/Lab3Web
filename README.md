@@ -20,3 +20,9 @@ Kemudian tambahkan kode untuk membuat Ordered List seperti berikut
 Kemudian refresh di web browser
 
 ![1c](https://user-images.githubusercontent.com/56387936/115102268-03943780-9f74-11eb-85e6-bfaf1627caf0.JPG)
+
+•	Membuat Unorderd List
+
+Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada section unordered-list, seperti berikut 
+
+![1d](https://user-images.githubusercontent.com/56387936/115102324-5a9a0c80-9f74-11eb-99b3-bc86ef4559f2.JPG)
