@@ -16,3 +16,7 @@ Langkah-langkah Praktikum
 Kemudian tambahkan kode untuk membuat Ordered List seperti berikut
 
 ![1b](https://user-images.githubusercontent.com/56387936/115102212-9f717380-9f73-11eb-8320-1d7baa9c17c1.JPG)
+
+Kemudian refresh di web browser
+
+![1c](https://user-images.githubusercontent.com/56387936/115102268-03943780-9f74-11eb-85e6-bfaf1627caf0.JPG)
