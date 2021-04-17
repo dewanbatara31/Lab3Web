@@ -26,3 +26,7 @@ Kemudian refresh di web browser
 Kemudian tambakan kode untuk membuat Unordered List, setelah deklarasi ordered list pada section unordered-list, seperti berikut 
 
 ![1d](https://user-images.githubusercontent.com/56387936/115102324-5a9a0c80-9f74-11eb-99b3-bc86ef4559f2.JPG)
+
+Kemudian refresh di web browser nya 
+
+![1e](https://user-images.githubusercontent.com/56387936/115102439-ff1c4e80-9f74-11eb-8fad-46fdb94ba250.JPG)
